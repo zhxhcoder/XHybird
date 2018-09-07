@@ -1,6 +1,8 @@
 # XHybird
 XHybird android Hybird 开发实践
 
+h5加载
+https://github.com/Tencent/VasSonic
 
 ## url重定向
 
