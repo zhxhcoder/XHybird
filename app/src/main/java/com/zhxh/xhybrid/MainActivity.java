@@ -1,4 +1,4 @@
-package com.zhxh.android.xwebview;
+package com.zhxh.xhybrid;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
